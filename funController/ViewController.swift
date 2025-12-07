@@ -28,7 +28,7 @@ class ViewController: UIViewController {
     
     @IBOutlet weak var btnHideOutlet: UIButton!
     
-    @IBOutlet weak var btnVisableOutlet: UIButton!
+    @IBOutlet weak var btnVisibleOutlet: UIButton!
     
 
     /*
